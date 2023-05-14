@@ -14,10 +14,10 @@ body {
 
 .game-buttons {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
-    margin-right: 300px;
-    margin-left: 300px;
+    margin-right: 400px;
+    margin-left: 400px;
 }
 
 .grid-container {
